@@ -1,9 +1,9 @@
 body{
-    background-color: beige;
+    background-color:#EFDDBA;
     font-family: sans-serif;
 }
 header {
-    background-color: beige ;
+    background-color: #BBD0F0;
     color: black;
     text-decoration: underline;
     position: fixed;
@@ -12,7 +12,7 @@ header {
     left: auto;
     right: auto;
     height: 30px;
-    
+    width: 100%;
 }
 
 h1{
@@ -23,7 +23,6 @@ h1{
 
 img {
     position: relative;
-
 }
 .me{
     text-align: center;
@@ -50,4 +49,11 @@ display: inline;
 
 .footer{
     text-align: center;
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+
 }
