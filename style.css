@@ -1,17 +1,32 @@
-h1{
-    color: black; 
+body{
+    background-color: beige;
     font-family: sans-serif;
 }
-h2{font-size: 50%;
-
+header {
+    background-color: black ;
+    font-size: larger;
+    text-decoration: underline;
+    position: fixed;
+    display: flex;
+    border-bottom-style: solid;
+    top: -10px;
+    left: auto;
+    right: auto;
+    height: 30px;
 }
 
-h3{text-align: left; }
+h1{
+    color: black; 
+    text-align: center;
+}
 
 
 img {
     position: relative;
 
+}
+.me{
+    text-align: center;
 }
 
 section{
@@ -21,5 +36,18 @@ section{
 
 .desc{
     color: black;
+    text-align: center;
     
+    
+}
+.contact{text-align: center;
+}
+.contactList{
+text-align: center;
+list-style-type: none;
+display: inline;
+}
+
+.footer{
+    text-align: center;
 }
