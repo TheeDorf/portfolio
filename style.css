@@ -6,7 +6,7 @@ header {
     background-color: black ;
     font-size: larger;
     text-decoration: underline;
-    position: fixed;
+    position: relative;
     display: flex;
     border-bottom-style: solid;
     top: -10px;
