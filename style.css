@@ -3,16 +3,16 @@ body{
     font-family: sans-serif;
 }
 header {
-    background-color: black ;
-    font-size: larger;
+    background-color: beige ;
+    color: black;
     text-decoration: underline;
-    position: relative;
-    display: flex;
+    position: fixed;
     border-bottom-style: solid;
-    top: -10px;
+    top: 5px;
     left: auto;
     right: auto;
     height: 30px;
+    
 }
 
 h1{
