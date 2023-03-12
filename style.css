@@ -13,6 +13,7 @@ header {
     right: auto;
     height: 30px;
     width: 100%;
+    ;
 }
 
 h1{
@@ -57,3 +58,15 @@ display: inline;
 @media only screen and (max-width: 768px) {
 
 }
+
+@media print {
+    footer {page-break-after: always;}
+  }
+
+  @media print {
+    section {page-break-after: always;}
+  }
+
+  @media print {
+    div {page-break-after: always;}
+  }
