@@ -1,6 +1,10 @@
 body{
     background-color:#EFDDBA;
     font-family: sans-serif;
+    margin: 0
+}
+*,*:before,*:after {
+    box-sizing: inherit
 }
 header {
     background-color: #BBD0F0;
@@ -40,6 +44,13 @@ section{
     
     
 }
+.projectlist {
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    
+}
+
 .contact{text-align: center;
 }
 .contactList{
