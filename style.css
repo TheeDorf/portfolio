@@ -17,8 +17,28 @@ header {
     right: auto;
     height: 30px;
     width: 100%;
-    ;
+    
 }
+nav {
+    margin: 3px 0 0;
+    display: center;
+    text-align: center;
+    
+    
+}
+.hl {
+    color:#EFDDBA
+}
+
+a {
+   color:#BBD0F0;
+   font-size: 20px;
+}
+
+a:hover{
+    color: black;
+}
+
 
 h1{
     color: black; 
@@ -31,6 +51,7 @@ img {
 }
 .me{
     text-align: center;
+   
 }
 
 section{
@@ -57,6 +78,9 @@ section{
 text-align: center;
 list-style-type: none;
 display: inline;
+}
+.resbutton{
+    background-color: #EFDDBA;
 }
 
 .footer{
