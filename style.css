@@ -12,11 +12,17 @@ header {
     text-decoration: underline;
     position: fixed;
     border-bottom-style: solid;
-    top: 5px;
+    top: auto;
     left: auto;
     right: auto;
-    height: 30px;
+    height: auto;
     width: 100%;
+    
+}
+.headerlist{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
     
 }
 nav {
@@ -27,7 +33,7 @@ nav {
     
 }
 .hl {
-    color:#EFDDBA
+    color:#EFDDBA;
 }
 
 a {
@@ -45,10 +51,6 @@ h1{
     text-align: center;
 }
 
-
-img {
-    position: relative;
-}
 .me{
     text-align: center;
    
