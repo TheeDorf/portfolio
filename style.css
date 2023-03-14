@@ -45,12 +45,6 @@ a:hover{
     color: black;
 }
 
-
-h1{
-    color: black; 
-    text-align: center;
-}
-
 .me{
     text-align: center;
    
@@ -59,6 +53,14 @@ h1{
 section{
     color: black;
 
+}
+.headshot{
+}
+
+
+.skills{
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .desc{
