@@ -32,8 +32,13 @@ nav {
     
     
 }
+h1 {
+    text-align: center;
+}
+
 .hl {
     color:#EFDDBA;
+
 }
 
 a {
@@ -57,7 +62,10 @@ section{
 .headshot{
 }
 
-
+.skill{
+    background-color: black;
+    color: white;
+}
 .skills{
     display: flex;
     justify-content: space-evenly;
