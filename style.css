@@ -7,7 +7,7 @@ body{
     box-sizing: inherit
 }
 header {
-    background-color: #BBD0F0;
+    background-color: black;
     color: black;
     text-decoration: underline;
     position: fixed;
