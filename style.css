@@ -22,7 +22,7 @@ header {
 .headerlist{
     display: flex;
     list-style-type: none;
-    justify-content: space-around;
+    justify-content: space-evenly;
     
 }
 nav {
@@ -31,6 +31,9 @@ nav {
     text-align: center;
     
     
+}
+.hamburger{
+    display: none;
 }
 h1 {
     text-align: center;
