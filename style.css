@@ -54,6 +54,15 @@ a:hover{
     text-align: center;
    
 }
+.about {
+    display: flex;
+    color: white;
+
+}
+.aboutme {
+    color: white;
+    background-color: #753B7A;
+}
 
 section{
     color: black;
