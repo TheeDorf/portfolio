@@ -40,7 +40,7 @@ h1 {
 }
 
 .hl {
-    color:#EFDDBA;
+    color:#9D969E;
 
 }
 
@@ -58,7 +58,7 @@ a:hover{
    
 }
 #about {
-    color: white;
+    color: #9D969E;
 
 }
 .aboutme {
@@ -75,7 +75,7 @@ section{
 
 .skill{
     background-color: black;
-    color: white;
+    color: #9D969E;
 }
 .skills{
     display: flex;
