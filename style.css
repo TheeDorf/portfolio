@@ -59,6 +59,7 @@ a:hover{
 }
 #about {
     color: #9D969E;
+    background-color: ;
 
 }
 .aboutme {
@@ -85,8 +86,13 @@ section{
 .desc{
     color: black;
     text-align: center;
+    background-color: #753B7A ;
     
     
+}
+#projects{
+    background-color: #753B7A;
+    color:#9D969E
 }
 .projectlist {
     list-style-type: none;
@@ -95,8 +101,11 @@ section{
     
 }
 
-.contact{text-align: center;
+.contact{
+    text-align: center;
 }
+
+
 .contactList{
 text-align: center;
 list-style-type: none;
